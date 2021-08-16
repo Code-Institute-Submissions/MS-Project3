@@ -6,6 +6,7 @@ For my Python project I decided to go with a very simple version of black Jack g
 
 WHEN PLAYING PLEASE USE CAPITALISATION ON THE FIRST LETTER TO MAKE IT WORK FOR EXAMPLE Hit or Hold NOT hit and hold
 
+FOR COMMITS PLEASE VIST THIS REPO <https://github.com/JPT96/JPT-96-MSProject3>
 
 
 ## Features
